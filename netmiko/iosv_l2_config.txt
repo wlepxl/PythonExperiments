@@ -1,0 +1,7 @@
+!
+configuration
+!
+int fast 1/0/1
+description ###configured with netmiko###
+exit
+!
